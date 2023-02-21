@@ -1,0 +1,15 @@
+{
+  "name": "anypol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kemoshumai/anypol",
+  "author": "kemoshumai <87066961+kemoshumai@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "run": "node app.js"
+  },
+  "dependencies": {
+    "obj-file-parser": "^0.6.2"
+  }
+}
