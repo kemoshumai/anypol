@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node app.js",
     "run": "node app.js",
-    "build": "npx nexe app.js --output anypol --build"
+    "build": "npx nexe app.js --output anypol"
   },
   "dependencies": {
     "command-line-args": "^5.2.1",
